@@ -6,7 +6,7 @@ age = 26
 
 height = 5.3
 
-Is_Student = True
+is_student = True
 
 
 
